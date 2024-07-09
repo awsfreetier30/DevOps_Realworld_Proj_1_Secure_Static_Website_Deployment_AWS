@@ -1,0 +1,2 @@
+# DevOps_Realworld_Proj_1_Secure_Static_Website_Deployment_AWS
+DevOps_Realworld_Proj_1_Secure_Static_Website_Deployment_AWS using Terraform
