@@ -25,4 +25,4 @@ terraform.rc
 .DS_Store
 
 #Removing .pem key
-routeclouds.pem
+*.pem
